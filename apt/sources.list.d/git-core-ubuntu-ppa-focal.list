@@ -1,2 +1,2 @@
-deb http://ppa.launchpad.net/git-core/ppa/ubuntu focal main
+# deb http://ppa.launchpad.net/git-core/ppa/ubuntu jammy main # disabled on upgrade to jammy
 # deb-src http://ppa.launchpad.net/git-core/ppa/ubuntu focal main
