@@ -1,0 +1,1 @@
+deb [arch=arm64 signed-by=/usr/share/keyrings/openresty.gpg] http://openresty.org/package/arm64/ubuntu jammy main
